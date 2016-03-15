@@ -33,7 +33,7 @@
 
 ## 学习更多...
 
-* [SwiftGG 翻译组](http://swift.gg)：走心的 Swift 翻译组。翻译了 [Swift Programming Language（中文版）](http://gg.swiftguide.cn)
+* [SwiftGG 翻译组](http://swift.gg)：走心的 Swift 翻译组（每天一篇优秀译文）。翻译了 [Swift Programming Language（中文版）](http://gg.swiftguide.cn)
 <div style='text-align:center'><img src='http://swift.gg/img/wechat.jpg' width='128' /></div>
 
 * [Swift 语言指南](http://dev.swiftguide.cn)：汇集了 Swift 主流学习资源，并以开发者的视角整理编排。持续更新 [Swift 项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)
