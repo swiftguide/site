@@ -1,5 +1,5 @@
 
-# Swift 入门指引
+# Swift 学习指引
 > 开发者的第一份 Swift 语言中文学习指南。
 
 ---
@@ -39,5 +39,10 @@
 * [Swift 语言指南](http://dev.swiftguide.cn)：汇集了 Swift 主流学习资源，并以开发者的视角整理编排。持续更新《[Swift 项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)》。
 <div style='text-align:center'><img src='http://dev.swiftguide.cn/archive/weixin-swiftlanguage.jpg' width='128' /></div>
 
+## 参与贡献...
+
+***若希望完善并贡献到这份《Swift 学习指引》帮助更多人，可以来这里 [GitHub:swiftguidecn/site](https://github.com/swiftguidecn/site)。***
+
 ---
-<div align='center'>© 2016 <a href='http://swiftguide.cn'>SwiftGuide</a> | <a href='http://www.miibeian.gov.cn/'>苏ICP备09079647号-4</a></div>
+<div align='center'>© 2016 <a href='https://github.com/swiftguidecn/site'>SwiftGuide</a> | <a href='http://www.miibeian.gov.cn/'>苏ICP备09079647号-4</a></div>
+
