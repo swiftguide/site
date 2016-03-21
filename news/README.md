@@ -8,7 +8,8 @@
 * [Swift 通知推送新手指南](http://swift.gg/2016/03/15/push-notification-ios/) By [SwiftGG 翻译组](http://swift.gg)
 * [Swift 现在可用于所有的 ARMv6 树莓派 （1,Zero）](http://swift.gg/2016/03/18/swift-available-on-armv6-raspberry-1-zero/) By [SwiftGG 翻译组](http://swift.gg)
 * [ENJOY 的 Apple Pay 应用内支付接入实践](http://geek.csdn.net/news/detail/60849) By [webfrogs](http://weibo.com/u/1713195262)
-* [Swift 语言指南 － 收录周报（Issue 49）](Issue-49.md) By [@SwiftLanguage](http://weibo.com/swiftlanguage)
+* [Swift 语言指南 － 收录周报（Issue 49）](http://dev.swiftguide.cn/weekly/issue-49.html) By [@SwiftLanguage](http://weibo.com/swiftlanguage)
+* [Swift 开发者周刊（第 21 期）](http://swiftweekly.cn/archive/weekly21.html) By [SwiftGG 翻译组](http://swift.gg)
 
 
 ### 往期回顾
