@@ -4,7 +4,7 @@
 
 ---
 
-苹果为 [Swift](http://www.apple.com/swift/)（[中文介绍](http://www.apple.com/cn/swift/)）开发者提供的 [官方文档入口](https://developer.apple.com/swift/)，包括 [概述](https://developer.apple.com/swift/)，[博客](https://developer.apple.com/swift/blog/)（[中译镜像](https://github.com/ipader/SwiftGuide/tree/master/mirror/Swift%20Blog%20-%20Apple%20Developer)）及 [开发资源](https://developer.apple.com/swift/resources/)。其中以下几份文档（Swift 2.1）为入门级必备（[iBooks 版](https://itunes.apple.com/us/book-series/swift-programming-series/id888896989?mt=11)）：
+苹果为 [Swift](http://www.apple.com/swift/)（[中文介绍](http://www.apple.com/cn/swift/)）开发者提供的 [官方文档入口](https://developer.apple.com/swift/)，包括 [概述](https://developer.apple.com/swift/)，[博客](https://developer.apple.com/swift/blog/)（[中文镜像](https://github.com/ipader/SwiftGuide/tree/master/mirror/Swift%20Blog%20-%20Apple%20Developer)）及 [开发资源](https://developer.apple.com/swift/resources/)。其中以下几份文档（Swift 2.1）为入门级必备（[iBooks 版](https://itunes.apple.com/us/book-series/swift-programming-series/id888896989?mt=11)）：
 
 * [Swift Programming Language](https://developer.apple.com/swift/)（[中文版](http://gg.swiftguide.cn)｜[PDF 版](http://wiki.jikexueyuan.com/download/swift/pdf/) By [SwiftGG翻译组](http://weibo.com/swiftguide)）
 
@@ -31,16 +31,20 @@
 有关于 Swift 开源及跨平台开发，可以关注 [swift.org](https://swift.org/)
 
 ## 开发动态
-* [injectionforxcode](https://github.com/johnno1962/injectionforxcode)：修改一个类的代码实现而不用重启整个应用 Xcode 插件。By GitHub
-* [navigation-stack](https://github.com/Ramotion/navigation-stack)：导航控制器的 Stack 视图模型最佳实践。By GitHub
-* [WaveLoadingView](https://github.com/liuzhiyi1992/WaveLoadingView)：可配置圆形波浪进度指示器类及演示。By GitHub
-* [别让双手闲下来，来做一些练手项目吧](http://swift.gg/2016/03/08/how-to-start-an-ios-app-portfolio/)：很接地气的初级学习实践。By [@SwiftGG翻译组](http://weibo.com/swiftguide)
-* [每周 Swift 社区问答](http://swift.gg/2016/03/02/swift-qa-2016-03-02)：每周整理 Stack Overflow 和 Swift 官方论坛中的提问及回答。By [SwiftGG 翻译组](http://swift.gg)
-* [分享视频和 keynote](http://swift.gg/2016/03/14/live-video/) By [SwiftGG 翻译组](http://swift.gg)
+**[<= 往期回顾](https://github.com/swiftguidecn/site/blob/master/news/README.md)**
+
+* [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation)：创意下拉刷新动画实现。By GitHub
+* [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift)：任务管理 futures/promises 异步实现。By GitHub
+* [PeekPop](https://github.com/marmelroy/PeekPop)：新特性 Peek/Pop 图片预览。By GitHub
+* [Swift 通知推送新手指南](http://swift.gg/2016/03/15/push-notification-ios/) By [SwiftGG 翻译组](http://swift.gg)
+* [Swift 现在可用于所有的 ARMv6 树莓派 （1,Zero）](http://swift.gg/2016/03/18/swift-available-on-armv6-raspberry-1-zero/) By [SwiftGG 翻译组](http://swift.gg)
+* [ENJOY 的 Apple Pay 应用内支付接入实践](http://geek.csdn.net/news/detail/60849) By [webfrogs](http://weibo.com/u/1713195262)
+* [Swift 语言指南 － 收录周报（Issue 49）](Issue-49.md) By [@SwiftLanguage](http://weibo.com/swiftlanguage)
+
 
 ## 学习更多...
 
-* [SwiftGG 翻译组](http://swift.gg)：走心的 Swift 翻译组（每天一篇优秀译文）。翻译了 [Swift Programming Language（中文版）](http://gg.swiftguide.cn)
+* [SwiftGG 翻译组](http://swift.gg)：走心的 Swift 翻译组（每天一篇优秀译文）。翻译了 [Swift Programming Language](http://gg.swiftguide.cn)
 <div style='text-align:center'><img src='http://swift.gg/img/wechat.jpg' width='128' /></div>
 
 * [Swift 语言指南](http://dev.swiftguide.cn)：汇集了 Swift 主流学习资源，并以开发者的视角整理编排。持续更新 [Swift 项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)
