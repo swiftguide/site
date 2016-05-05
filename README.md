@@ -33,14 +33,19 @@
 ## 开发动态
 **[<= 往期回顾](https://github.com/swiftguidecn/site/blob/master/news/README.md)**
 
-* [IBM 为可穿戴设备提供开源框架（SDK）及示例](https://github.com/ibm-wearables-sdk-for-mobile/ibm-wearables-swift-sdk)
-* [拥抱未来：更优雅的 Swift 写法](https://realm.io/cn/news/doios-daniel-steinberg-ready-for-the-future/) By realm.io
-* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)：带图标显示浮动标签组件库
-* [NumberMorphView](https://github.com/me-abhinav/NumberMorphView)：可爱的数字补间（变身）动画类库
-* [SwiftSVG](https://github.com/mchoe/SwiftSVG)：支持多种接口绘制 SVG
+* [SwiftCon 2016 参会感想](http://blog.devtang.com/2016/04/25/swiftcon-2016-notes/) By [@唐巧](http://weibo.com/tangqiaoboy)
+* [MShare 第一期（iOS 专场相关 Keynote、代码和视频的 Github 仓库）](https://github.com/mengxiangyue/MShare_Salon) By [@孟祥月](http://weibo.com/u/1750643861)
+* [GPUImage2](https://github.com/BradLarson/GPUImage2)：基于 GPU 图像和视频处理框架库
+* [Peek](https://github.com/shaps80/Peek)：更友好、手势方式检查界面内组件布局信息
+* [SwiftyGif](https://github.com/kirualex/SwiftyGif)：高性能 Gif 播放引擎
+* [JASON](https://github.com/delba/JASON)：高速 JSON 解析类库
+* [Swift Strings](http://andybargh.com/swift-strings/)
+* [Stanford 公开课中文字幕翻译](https://github.com/X140Yu/Developing-iOS-9-Apps-with-Swift)
+* [React Native 的官方最佳实践翻译](http://f8-app.liaohuqiu.net/)
+* [浅谈 iOS 中的视图优化](http://www.jianshu.com/p/5c968a240e27?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)。
 
-* [Swift 语言指南 － 收录周报（Issue 51）](http://dev.swiftguide.cn/weekly/issue-51.html) By [@SwiftLanguage](http://weibo.com/swiftlanguage)
-* [Swift 开发者周刊（第 25 期）](http://swiftweekly.cn/archive/weekly25.html) By [SwiftGG 翻译组](http://swift.gg)
+* [Swift 语言指南 － 收录周报（Issue 52）](https://github.com/ipader/SwiftGuide/blob/master/weekly/Issue-52.md) By [@SwiftLanguage](http://weibo.com/swiftlanguage)
+* [Swift 开发者周刊（第 27 期）](http://swiftweekly.cn/archive/weekly27.html) By [SwiftGG 翻译组](http://swift.gg)
 
 
 ## 学习更多...
