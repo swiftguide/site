@@ -33,16 +33,14 @@
 ## 开发动态
 **[<= 往期回顾](https://github.com/swiftguidecn/site/blob/master/news/README.md)**
 
-* [IBAnimatable 2.0 发布了！](https://github.com/JakeLin/IBAnimatable/releases) By [@林永坚Jake](http://weibo.com/yongjianlin)
-* [Free iOS 9.3 iPhone UI Kit for Illustrator and Sketch](http://mercury.io/blog/free-ios-9-3-iphone-ui-kit-for-illustrator-and-sketch)
-* [Permission](https://github.com/delba/Permission)（统一的 API 请求 iOS 本地设备及资源权限类库）
-* [SwipeViewController](https://github.com/fortmarek/SwipeViewController)（页面滑动和标签选项卡）
-* [我的 iOS 开发入门自学路径](http://www.jianshu.com/p/4be17ec40cfc)
-* [iOS Core Animation: Advanced Techniques 中文译本](https://zsisme.gitbooks.io/ios-/content/)
-* [Medium - Swift Programming](https://medium.com/swift-programming)
+* [IBM 为可穿戴设备提供开源框架（SDK）及示例](https://github.com/ibm-wearables-sdk-for-mobile/ibm-wearables-swift-sdk)
+* [拥抱未来：更优雅的 Swift 写法](https://realm.io/cn/news/doios-daniel-steinberg-ready-for-the-future/) By realm.io
+* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)：带图标显示浮动标签组件库
+* [NumberMorphView](https://github.com/me-abhinav/NumberMorphView)：可爱的数字补间（变身）动画类库
+* [SwiftSVG](https://github.com/mchoe/SwiftSVG)：支持多种接口绘制 SVG
 
-* [Swift 语言指南 － 收录周报（Issue 50）](http://dev.swiftguide.cn/weekly/issue-50.html) By [@SwiftLanguage](http://weibo.com/swiftlanguage)
-* [Swift 开发者周刊（第 22 期）](http://swiftweekly.cn/archive/weekly22.html) By [SwiftGG 翻译组](http://swift.gg)
+* [Swift 语言指南 － 收录周报（Issue 51）](http://dev.swiftguide.cn/weekly/issue-51.html) By [@SwiftLanguage](http://weibo.com/swiftlanguage)
+* [Swift 开发者周刊（第 25 期）](http://swiftweekly.cn/archive/weekly25.html) By [SwiftGG 翻译组](http://swift.gg)
 
 
 ## 学习更多...

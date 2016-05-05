@@ -1,4 +1,15 @@
 ## [Swift 学习指引](http://swiftguide.cn) － 开发动态
+### 第三期
+* [IBAnimatable 2.0 发布了！](https://github.com/JakeLin/IBAnimatable/releases) By [@林永坚Jake](http://weibo.com/yongjianlin)
+* [Free iOS 9.3 iPhone UI Kit for Illustrator and Sketch](http://mercury.io/blog/free-ios-9-3-iphone-ui-kit-for-illustrator-and-sketch)
+* [Permission](https://github.com/delba/Permission)（统一的 API 请求 iOS 本地设备及资源权限类库）
+* [SwipeViewController](https://github.com/fortmarek/SwipeViewController)（页面滑动和标签选项卡）
+* [我的 iOS 开发入门自学路径](http://www.jianshu.com/p/4be17ec40cfc)
+* [iOS Core Animation: Advanced Techniques 中文译本](https://zsisme.gitbooks.io/ios-/content/)
+* [Medium - Swift Programming](https://medium.com/swift-programming)
+* [Swift 语言指南 － 收录周报（Issue 50）](http://dev.swiftguide.cn/weekly/issue-50.html) By [@SwiftLanguage](http://weibo.com/swiftlanguage)
+* [Swift 开发者周刊（第 22 期）](http://swiftweekly.cn/archive/weekly22.html) By [SwiftGG 翻译组](http://swift.gg)
+
 
 ### 第二期
 
