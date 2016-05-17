@@ -33,19 +33,18 @@
 ## 开发动态
 **[<= 往期回顾](https://github.com/swiftguidecn/site/blob/master/news/README.md)**
 
-* [SwiftCon 2016 参会感想](http://blog.devtang.com/2016/04/25/swiftcon-2016-notes/) By [@唐巧](http://weibo.com/tangqiaoboy)
-* [MShare 第一期（iOS 专场相关 Keynote、代码和视频的 Github 仓库）](https://github.com/mengxiangyue/MShare_Salon) By [@孟祥月](http://weibo.com/u/1750643861)
-* [GPUImage2](https://github.com/BradLarson/GPUImage2)：基于 GPU 图像和视频处理框架库
-* [Peek](https://github.com/shaps80/Peek)：更友好、手势方式检查界面内组件布局信息
-* [SwiftyGif](https://github.com/kirualex/SwiftyGif)：高性能 Gif 播放引擎
-* [JASON](https://github.com/delba/JASON)：高速 JSON 解析类库
-* [Swift Strings](http://andybargh.com/swift-strings/)
-* [Stanford 公开课中文字幕翻译](https://github.com/X140Yu/Developing-iOS-9-Apps-with-Swift)
-* [React Native 的官方最佳实践翻译](http://f8-app.liaohuqiu.net/)
-* [浅谈 iOS 中的视图优化](http://www.jianshu.com/p/5c968a240e27?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)。
+* [Swift 官方文档中文版已经同步到 Swift 2.2](https://github.com/numbbbbb/the-swift-programming-language-in-chinese/releases/tag/v2.2)
+* [Swift 开发者、项目、最佳实践：由 Swift 开发者自己的维护的干货](https://github.com/ipader/SwiftGuide/wiki/%E5%BC%80%E5%8F%91%E8%80%85%E3%80%81%E9%A1%B9%E7%9B%AE%E3%80%81%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
+* [SwiftTweaks：不用重新编译即可调整 UI 配置](https://github.com/Khan/SwiftTweaks)
+* [Material：Swift 版 Material Design 动画及图形框架库](https://github.com/CosmicMind/Material)
+* [Networking：使用简单、功能惊喜的网络封装库](https://github.com/3lvis/Networking)
+* [Interpolate：手势驱动交互式转场动画框架库](https://github.com/marmelroy/Interpolate)
+* [Artsy 的测试之旅](https://realm.io/cn/news/tryswift-ash-furrow-artsy-testing-tour/)
+* [分类、整理、归纳非常清晰的开源 iOS 应用集合](https://github.com/dkhamsing/open-source-ios-apps)
+* [用 HealthKit 来开发一个健身 App](http://swift.gg/2016/05/13/healthkit-introduction/)
 
-* [Swift 语言指南 － 收录周报（Issue 52）](https://github.com/ipader/SwiftGuide/blob/master/weekly/Issue-52.md) By [@SwiftLanguage](http://weibo.com/swiftlanguage)
-* [Swift 开发者周刊（第 27 期）](http://swiftweekly.cn/archive/weekly27.html) By [SwiftGG 翻译组](http://swift.gg)
+* [Swift 语言指南 － Issue 53](https://github.com/ipader/SwiftGuide/blob/master/weekly/Issue-53.md)（[@SwiftLanguage](http://weibo.com/swiftlanguage)）
+* [Swift 开发者周刊 － 第 29 期](http://swiftweekly.cn/archive/weekly29.html)（[SwiftGG 翻译组](http://swift.gg)）
 
 
 ## 学习更多...
