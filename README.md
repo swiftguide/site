@@ -16,7 +16,7 @@
 
 学习实践的角度，标准库示例代码 [Swift Standard Library.playground](https://developer.apple.com/sample-code/swift/downloads/Standard-Library.zip) 是很棒的学习伴侣。
 
-教程方面，苹果力荐了斯坦福课程 [Stanford University: Developing iOS 8 Apps with Swift](https://itunes.com/StanfordSwift)（[中文字幕版](http://open.163.com/special/opencourse/ios8.html) By [@网易公开课](http://weibo.com/163open)）
+教程方面，苹果力荐了斯坦福课程 [Stanford University: Developing iOS 8 Apps with Swift](https://itunes.com/StanfordSwift)（[中文字幕版](http://open.163.com/special/opencourse/ios8.html) By [@网易公开课](http://weibo.com/163open)）;对于零基础初学者还推荐iBook上面的[Intro to App Development with Swift](https://itun.es/us/aVbRcb.l)(目前只有英文版）
 
 除以上所涉及入门级文档，[iOS Developer Library](https://developer.apple.com/library/ios/navigation/) 还为开发者提供了更庞大、系统化的开发文档支持。
 
