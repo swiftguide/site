@@ -38,6 +38,10 @@
 * [Swift 语言指南](https://github.com/ipader/SwiftGuide)：汇集了 Swift 主流学习资源，并以开发者的视角整理编排。持续更新 [Swift 项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)
 <div style='text-align:center'><img src='http://dev.swiftguide.cn/archive/weixin-swiftlanguage.jpg' width='128' /></div>
 
+
+* [Swift 泊学高清短视频](https://boxueio.com/skill/swift)：覆盖了全部Swift内容的全系列高清短视频。从每一个编程语言都有的基本设施、 每一个你耳熟能详的面向对象概念、现代编程语言流行的泛型编程、函数式编程以及每一个Swift与众不同的特点。 你既不会漏掉应该掌握的细节，又不会深陷在各种重复无聊的内容里。持续更新 [iOS 最新开发视频](https://boxueio.com/skill/ios)
+<div style='text-align:center'><img src='http://7xncnb.com1.z0.glb.clouddn.com/boxue-qrcode-swiftguide.png' width='128' /></div>
+
 ## 参与贡献...
 
 > *若希望完善并贡献到这份《Swift 学习指引》帮助更多人，可以来这里 [GitHub:swiftguidecn/site](https://github.com/swiftguidecn/site)。*
